@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-blanded-1/static/css/main.c3d5249d.css",
+    "main.js": "/react-blanded-1/static/js/main.d94b8707.js",
+    "index.html": "/react-blanded-1/index.html",
+    "main.c3d5249d.css.map": "/react-blanded-1/static/css/main.c3d5249d.css.map",
+    "main.d94b8707.js.map": "/react-blanded-1/static/js/main.d94b8707.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.d94b8707.js"
+  ]
+}
