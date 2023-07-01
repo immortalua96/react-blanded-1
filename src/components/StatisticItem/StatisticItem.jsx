@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 import { IconContext } from 'react-icons';
 import {
   StatisticBox,
@@ -14,3 +15,9 @@ export const StatisticItem = ({title, total, icon}) => {
   <StatisticText>{title}</StatisticText>
 </StatisticBox>;
 };
+
+StatisticItem.propTypes={
+  title:PropTypes.string.isRequired,
+  total:PropTypes.number.isRequired,
+  icon: PropTypes.object.isRequired
+}
